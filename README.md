@@ -1,7 +1,3 @@
-Certainly! Here's an extended version of the README file for your GitHub repository:
-
----
-
 # Python Programming Exercises
 
 Welcome to the Python Programming Exercises repository! This collection of Python scripts is designed to provide hands-on coding challenges for individuals looking to enhance their programming skills in Python.
